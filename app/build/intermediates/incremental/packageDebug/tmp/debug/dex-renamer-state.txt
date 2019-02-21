@@ -1,4 +1,4 @@
-#Wed Jan 30 11:03:48 IST 2019
-base.0=C\:\\Users\\guyar\\Documents\\Eribank_app\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\94
+#Thu Feb 21 14:20:49 IST 2019
+base.0=/Users/omermadi/experibankAndroid/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

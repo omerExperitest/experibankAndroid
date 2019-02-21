@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Wed Jan 30 11:03:48 IST 2019
+#Thu Feb 21 14:20:49 IST 2019
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\guyar\\Documents\\Eribank_app\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\94
+0.base=/Users/omermadi/experibankAndroid/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
 0.set=DEX
 count=1

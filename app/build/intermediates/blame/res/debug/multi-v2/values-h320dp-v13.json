@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\guyar\\Documents\\Eribank_app\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h320dp-v13\\values-h320dp-v13.xml",
+            "outputFile": "/Users/omermadi/experibankAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h320dp-v13/values-h320dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\guyar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\7c0949432a7c5641c77988e923f66a09\\res\\values-h320dp\\values-h320dp.xml",
+                    "source": "/Users/omermadi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/a481c242ac12a6f5c10431f5e9f4f0c0/res/values-h320dp/values-h320dp.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
